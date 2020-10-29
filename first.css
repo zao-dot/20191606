@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%
+    font-family: "Open Sans", sans-serif;
+    color: plum;
+}
+h1 {
+    font-size: 70px
+}
+h2 {
+    fon-size: 70px
+}
+
+p {
+    font-size: 13px;
+    color: black;
+    line-height: 2;
+}
+
+img {
+    max-width: 100%
+}
